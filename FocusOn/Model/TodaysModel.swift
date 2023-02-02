@@ -8,6 +8,8 @@
 import UIKit
 
 
+
+
 protocol TodayListModel {
     func createGoal(with title: String)
     func addTask(with title: String)
