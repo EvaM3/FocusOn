@@ -21,6 +21,7 @@
 		A02BD416298B356F00575FE3 /* GoalEntities&CoreDataProperties.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02BD415298B356F00575FE3 /* GoalEntities&CoreDataProperties.swift */; };
 		A02BD418298B361500575FE3 /* HistoryListModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02BD417298B361500575FE3 /* HistoryListModel.swift */; };
 		A02BD41A298B368100575FE3 /* DateFormattingHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = A02BD419298B368100575FE3 /* DateFormattingHelper.swift */; };
+		A0650EBE2994632600634B84 /* CustomTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0650EBD2994632600634B84 /* CustomTableViewCell.swift */; };
 		A0780E0729875282003B41F4 /* FocusData.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A0780E0529875282003B41F4 /* FocusData.xcdatamodeld */; };
 		A0C1757629840B8C00674463 /* TodaysModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C1757529840B8C00674463 /* TodaysModel.swift */; };
 		A0C1757929840CEA00674463 /* Goal.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C1757829840CEA00674463 /* Goal.swift */; };
@@ -48,6 +49,7 @@
 		A02BD415298B356F00575FE3 /* GoalEntities&CoreDataProperties.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "GoalEntities&CoreDataProperties.swift"; sourceTree = "<group>"; };
 		A02BD417298B361500575FE3 /* HistoryListModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryListModel.swift; sourceTree = "<group>"; };
 		A02BD419298B368100575FE3 /* DateFormattingHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFormattingHelper.swift; sourceTree = "<group>"; };
+		A0650EBD2994632600634B84 /* CustomTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTableViewCell.swift; sourceTree = "<group>"; };
 		A0780E0629875282003B41F4 /* FocusData.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = FocusData.xcdatamodel; sourceTree = "<group>"; };
 		A0C1757529840B8C00674463 /* TodaysModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodaysModel.swift; sourceTree = "<group>"; };
 		A0C1757829840CEA00674463 /* Goal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Goal.swift; sourceTree = "<group>"; };
@@ -82,6 +84,7 @@
 				A02BD405298B24DA00575FE3 /* TaskCell.xib */,
 				A02BD409298B2B1400575FE3 /* SummaryCell.swift */,
 				A02BD40A298B2B1400575FE3 /* SummaryCell.xib */,
+				A0650EBD2994632600634B84 /* CustomTableViewCell.swift */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 				A0C1757629840B8C00674463 /* TodaysModel.swift in Sources */,
 				A0E9C8D72981F0EE009C136A /* AppDelegate.swift in Sources */,
 				A0C1757929840CEA00674463 /* Goal.swift in Sources */,
+				A0650EBE2994632600634B84 /* CustomTableViewCell.swift in Sources */,
 				A02BD40B298B2B1400575FE3 /* SummaryCell.swift in Sources */,
 				A02BD406298B24DA00575FE3 /* TaskCell.swift in Sources */,
 				A02BD400298B1D6400575FE3 /* GoalCell.swift in Sources */,

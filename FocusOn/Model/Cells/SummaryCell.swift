@@ -13,6 +13,8 @@ class SummaryCell: UITableViewCell {
     @IBOutlet weak var title: UILabel!
     
     
+
+    
     func configureCell(item: ListElement) {
         title.textAlignment = .center
         title.text = item.title

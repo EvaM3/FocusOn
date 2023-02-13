@@ -21,7 +21,7 @@
                 <autoresizingMask key="autoresizingMask"/>
                 <subviews>
                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BVN-fy-Ofk">
-                        <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                        <rect key="frame" x="0.0" y="0.0" width="270" height="44"/>
                         <fontDescription key="fontDescription" type="system" pointSize="17"/>
                         <nil key="textColor"/>
                         <nil key="highlightedColor"/>
@@ -31,11 +31,11 @@
                     <constraint firstItem="BVN-fy-Ofk" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="1Hc-ff-W2j"/>
                     <constraint firstItem="BVN-fy-Ofk" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="1LV-Tw-cTp"/>
                     <constraint firstAttribute="bottom" secondItem="BVN-fy-Ofk" secondAttribute="bottom" id="68Y-1K-Bem"/>
-                    <constraint firstAttribute="trailing" secondItem="BVN-fy-Ofk" secondAttribute="trailing" id="YQP-je-cuC"/>
+                    <constraint firstAttribute="trailing" secondItem="BVN-fy-Ofk" secondAttribute="trailing" constant="50" id="dEB-pd-f65"/>
                 </constraints>
             </tableViewCellContentView>
             <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
-            <point key="canvasLocation" x="139" y="94"/>
+            <point key="canvasLocation" x="137.68115942028987" y="93.75"/>
         </tableViewCell>
     </objects>
 </document>
